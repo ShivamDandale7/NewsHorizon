@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a News website created using react. This website contains bootstrap components along with react-parallax-tilt dependendecy
+to make the card tilt while hovering over. It also contains a live background for a  better UI experience.
+
+Output:
+
+![Screenshot (154)](https://user-images.githubusercontent.com/112814641/224748878-bd87dc04-712d-405c-b55c-eab515e200fd.png)
+
+
+![Screenshot (155)](https://user-images.githubusercontent.com/112814641/224748904-9025747d-c622-4865-8a79-fbc325eb7d1a.png)
 
 ## Available Scripts
 
